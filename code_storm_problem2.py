@@ -17,4 +17,4 @@ for i in user_input:
     else:
         num+=roman_dict.get(i)
 
-print("Sum is:",num)
+print("sum is",num)
